@@ -1,0 +1,144 @@
+---
+title: '<span style="display:none">**Skills**</span>'
+output: 
+  html_document:
+    css: figures.css
+---
+
+<script src="https://kit.fontawesome.com/0af1a424a5.js" crossorigin="anonymous"></script>
+
+<style>
+#myBtn {
+  display: none; /* Hidden by default */
+  position: fixed; /* Fixed/sticky position */
+  bottom: 20px; /* Place the button at the bottom of the page */
+  right: 30px; /* Place the button 30px from the right */
+  z-index: 99; /* Make sure it does not overlap */
+  border: none; /* Remove borders */
+  outline: none; /* Remove outline */
+  background-color: red; /* Set a background color */
+  color: white; /* Text color */
+  cursor: pointer; /* Add a mouse pointer on hover */
+  padding: 15px; /* Some padding */
+  border-radius: 10px; /* Rounded corners */
+  font-size: 18px; /* Increase font size */
+}
+
+#myBtn:hover {
+  background-color: #555; /* Add a dark-grey background on hover */
+}
+.main-container {
+  width: 1800px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+h1, h2, h3, h4 {
+text-align: center
+}
+
+footer {
+left: 50;
+padding-left: 200px;
+padding-right: 200px
+width: 1000px;
+background-color: white;
+display: block;
+text-align: center;
+}
+
+
+/* Responsive layout - makes the two columns/boxes stack on top of each other instead of next to each other, on small screens */
+@media (max-width: 700px) {
+  .main-container {
+    width: 100%;
+    height: auto;
+  }
+}
+
+</style>
+
+
+<div class = "row">
+
+<div class="col-md-4">
+
+<style> img {width: 100%; text-align: center}</style>
+![](karen.png)
+<p  align="center">**Karen**</p>
+
+<p  align="center">I’d love to hear from you, so feel free to reach out:</p>
+
+<p  align="center"><a href="mailto:karen.cristine.goncalves.dos.santos@uqtr.ca"  style="color:#fc1c03"><i class="fas fa-envelope"></i></a> <a href="mailto:cris.kgs@gmail.com" style="color:#03b6fc"><i class="fas fa-envelope"></i></a></p>
+
+
+<p  align="center">Or connect with me on:</p>
+<span style="font-size: 2em"> <p  align="center"> [<i class="fab fa-twitter"></i>](http://twitter.com/KarenCristineG1) [<i class="fab fa-linkedin-in"></i>](https://www.linkedin.com/in/karen-cristine-gon%C3%A7alves-dos-santos-05847a113/) [<i class="fab fa-github"></i>](http://github.com/KarenGoncalves) </p> </span>
+
+
+</div>
+
+<div class="col-md-8">
+
+# **Skills** {#skills}
+
+
+- R and Bioconductor - Institut National de la Recherche Agronomique (France - 2017)
+    - Transcriptomic analysis
+        - Read quality and filtering
+        - Read alignment and _de novo_ assembly
+        - Obtaining read count files from alignment files
+        - _De novo_ annotation
+        - Differential expression analysis
+        - GO and KEGG enrichment analysis
+        - Gene co-expression analysis
+
+- Python - Compute Quebec (Canada - 2017)
+
+- Unix - Compute Quebec (Canada - 2017)
+
+- MS Office
+
+- Markdown
+  
+- HTML - basics
+  
+- CSS - basics
+  
+- SQL - basics
+
+<div style="display:inline; float: left; width: 100%;">
+| Language | Read | Write | Speak | Understand | Native |
+|:----|:---:|:---:|:---:|:---:|:---:|
+| English | Fluent | Advanced | Fluent | Fluent | |
+| French | Fluent | Intermediary | Advanced | Fluent | |
+| Portuguese | Fluent | Fluent | Fluent | Fluent | Yes |
+| Spanish  | Fluent | Fluent | Advanced | Fluent | |
+</div>
+
+</div>
+
+
+
+<button onclick="topFunction()" id="myBtn" title="Go to top">Top</button>
+<script>
+//Get the button
+var mybutton = document.getElementById("myBtn");
+
+// When the user scrolls down 20px from the top of the document, show the button
+window.onscroll = function() {scrollFunction()};
+
+function scrollFunction() {
+  if (document.body.scrollTop > 20 || document.documentElement.scrollTop > 20) {
+    mybutton.style.display = "block";
+  } else {
+    mybutton.style.display = "none";
+  }
+}
+
+// When the user clicks on the button, scroll to the top of the document
+function topFunction() {
+  document.body.scrollTop = 0;
+  document.documentElement.scrollTop = 0;
+}
+</script>

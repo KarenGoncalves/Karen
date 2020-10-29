@@ -1,0 +1,14 @@
+title: "Karen Goncalves dos Santos"
+output_dir: "."
+navbar:
+  title: "Karen Goncalves dos Santos"
+  right:
+    - text: "Publications"
+      href: publications.html
+    - text: "Skills"
+      href: skills.html
+output: 
+    html_document:
+      theme: cerulean
+      include:
+        css: figures.css
