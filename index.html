@@ -13,7 +13,6 @@
 
 <title>Karen</title>
 
-<script src="site_libs/header-attrs-2.3/header-attrs.js"></script>
 <script src="site_libs/jquery-1.11.3/jquery.min.js"></script>
 <meta name="viewport" content="width=device-width, initial-scale=1" />
 <link href="site_libs/bootstrap-3.3.5/css/cerulean.min.css" rel="stylesheet" />
@@ -23,6 +22,17 @@
 <script src="site_libs/navigation-1.1/tabsets.js"></script>
 <link href="site_libs/highlightjs-9.12.0/default.css" rel="stylesheet" />
 <script src="site_libs/highlightjs-9.12.0/highlight.js"></script>
+<link href="site_libs/anchor-sections-1.0.1/anchor-sections.css" rel="stylesheet" />
+<script src="site_libs/anchor-sections-1.0.1/anchor-sections.js"></script>
+
+<style type="text/css">
+  code{white-space: pre-wrap;}
+  span.smallcaps{font-variant: small-caps;}
+  span.underline{text-decoration: underline;}
+  div.column{display: inline-block; vertical-align: top; width: 50%;}
+  div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
+  ul.task-list{list-style: none;}
+    </style>
 
 <style type="text/css">code{white-space: pre;}</style>
 <style type="text/css">
@@ -360,8 +370,8 @@ Or connect with me on:
 <p></span></p>
 </div>
 </div>
-<div id="research" class="section level1 col-md-9" style="float: left; display: inline">
-<h1><strong>Research path</strong></h1>
+<div class="col-md-9" style="float: left; display: inline">
+<h1 id="research"><strong>Research path</strong></h1>
 <div style="width: 100%; display: block">
 <p>I have a bachelor degree in Biology from Brazil at <a href="https://portal.unila.edu.br/">Unila</a>. There I researched the interaction of two bacteria, <em>Gluconacetobacter diazotrophicus</em> and <em>Azospirillum brasiliensis</em>, and a fungi, <em>Trichoderma harzianum</em>, with the Mate plant, <em>Ilex paraguariensis</em>, under the direction of <a href="https://www.researchgate.net/profile/Cristian_Rojas6">Cristian A. Rojas</a> and <a href="https://www.researchgate.net/profile/Cleto_Peres">Cleto Peres</a>.</p>
 <p>I am currently doing my PhD in Quebec with <a href="http://www.germainhugo.com/">Hugo Germain</a> and <a href="https://oraprdnt.uqtr.uquebec.ca/pls/public/gscw031?owa_no_site=3466">Isabel Desgagne-Penix</a> at <a href="http:/uqtr.ca">UQTR</a> on <strong><em>Transcriptomics and metabolomics of Arabidopsis in response to fungal virulence proteins</em></strong>. Although my PhD program is in Cellular and molecular biology, I did all the analyses of my transcriptomic data and currently on my metabolomic data and I have collaborated in other projects throughout my PhD doing <em>de novo</em> transcriptome assembly, annotation and differential exon usage.</p>
@@ -404,7 +414,7 @@ function topFunction() {
 
 // add bootstrap table styles to pandoc tables
 function bootstrapStylePandocTables() {
-  $('tr.header').parent('thead').parent('table').addClass('table table-condensed');
+  $('tr.odd').parent('tbody').parent('table').addClass('table table-condensed');
 }
 $(document).ready(function () {
   bootstrapStylePandocTables();
