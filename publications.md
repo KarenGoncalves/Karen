@@ -133,6 +133,8 @@ Ahmed, M.B., **Santos, K.C.G.d.**, Sanchez, I.B. et al. 2018. A rust fungal effe
 
 ### *2020*
 
+**dos Santos, K.C.G.**; Pelletier, G.; Séguin, A.; Guillemette, F.; Hawkes, J.A.; Desgagné-Penix, I. & Germain, H. 2020. Differential alteration of plant functions by homologous fungal candidate effectors. Concours d'affiches scientifiques étudiantes 2020 du Centre SÈVE.
+
 **dos Santos, K.C.G.**, Desgagné-Penix, I. & Germain, H. 2020. Étude des plantes exprimant des protéines de virulence de la rouille du peuplier. Contest of scientific Posters - UQTR, Trois-Rivières, Canada.
 
 ### *2019*
