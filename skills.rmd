@@ -94,8 +94,10 @@ text-align: center;
   - Fast learner
   - Critical thinking
   - Creative
-  - Interested in teaching
-  - Love learning new skills
+  - Mentoring
+  - Good written and oral communication
+  - Willing to accept feedback
+  - Willingness to learn
   
 ## Technical
 
