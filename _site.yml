@@ -7,6 +7,8 @@ navbar:
       href: publications.html
     - text: "Skills"
       href: skills.html
+    - text: "Experience"
+      href: experience.html
 output: 
     html_document:
       theme: cerulean

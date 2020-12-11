@@ -8,6 +8,13 @@ output:
 <script src="https://kit.fontawesome.com/0af1a424a5.js" crossorigin="anonymous"></script>
 
 <style>
+table {
+border: none
+}
+
+td.righty {
+float: right
+}
 #myBtn {
   display: none; /* Hidden by default */
   position: fixed; /* Fixed/sticky position */
@@ -80,32 +87,42 @@ text-align: center;
 
 <div class="col-md-8">
 
-# **Skills** {#skills}
+# **Skills**
 
+## Soft skills
 
-- R and Bioconductor - Institut National de la Recherche Agronomique (France - 2017)
-    - Transcriptomic analysis
-        - Read quality and filtering
-        - Read alignment and _de novo_ assembly
-        - Obtaining read count files from alignment files
-        - _De novo_ annotation
-        - Differential expression analysis
-        - GO and KEGG enrichment analysis
-        - Gene co-expression analysis
-
-- Python - Compute Quebec (Canada - 2017)
-
-- Unix - Compute Quebec (Canada - 2017)
-
-- MS Office
-
-- Markdown
+  - Fast learner
+  - Critical thinking
+  - Creative
+  - Interested in teaching
+  - Love learning new skills
   
-- HTML - basics
-  
-- CSS - basics
-  
-- SQL - basics
+## Technical
+
+<div style="display:inline; float: left; width: 100%;">
+<table>
+<tr>
+<td>- MS Office </td><td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td> <td class="righty"><i  class="fas fa-circle"></i><i class="fas fa-circle"></i><i class="fas fa-circle"></i><i class="fas fa-circle"></i><i class="fas fa-circle"></i><i class="fas fa-circle"></i> </td></tr>
+<tr>
+<td>- R and Bioconductor </td><td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td> <td class="righty"><i  class="fas fa-circle"></i><i class="fas fa-circle"></i><i class="fas fa-circle"></i><i class="fas fa-circle"></i><i class="fas fa-circle"></i><i class="far fa-circle"></i></span> </td></tr>
+<tr>
+<td>- Unix </td><td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td> <td class="righty"><i  class="fas fa-circle"></i><i class="fas fa-circle"></i><i class="fas fa-circle"></i><i class="fas fa-circle"></i><i class="fas fa-circle"></i><i class="far fa-circle"></i></td></tr>
+<tr>
+<td>- High performance computing </td><td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td> <td class="righty"><i  class="fas fa-circle"></i><i class="fas fa-circle"></i><i class="fas fa-circle"></i><i class="fas fa-circle"></i><i class="far fa-circle"></i><i class="far fa-circle"></i> </td></tr>
+<tr>
+<td>- Markdown </td><td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td> <td class="righty"><i  class="fas fa-circle"></i><i class="fas fa-circle"></i><i class="fas fa-circle"></i><i class="fas fa-circle"></i><i class="far fa-circle"></i><i class="far fa-circle"></i> </td></tr>
+<tr>
+<td>- HTML </td><td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td> <td class="righty"><i  class="fas fa-circle"></i><i class="fas fa-circle"></i><i class="fas fa-circle"></i><i class="fas fa-circle"></i><i class="far fa-circle"></i><i class="far fa-circle"></i> </td></tr>
+<tr>
+<td>- CSS </td><td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td> <td class="righty"><i  class="fas fa-circle"></i><i class="fas fa-circle"></i><i class="fas fa-circle"></i><i class="fas fa-circle"></i><i class="far fa-circle"></i><i class="far fa-circle"></i> </td></tr>
+<tr>
+<td>- SQL </td><td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td> <td class="righty"><i  class="fas fa-circle"></i><i class="fas fa-circle"></i><i class="fas fa-circle"></i><i class="far fa-circle"></i><i class="far fa-circle"></i><i class="far fa-circle"></i> </td></tr>
+<tr>
+<td>- Python </td><td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td> <td class="righty"><i  class="fas fa-circle"></i><i class="fas fa-circle"></i><i class="fas fa-circle"></i><i class="far fa-circle"></i><i class="far fa-circle"></i><i class="far fa-circle"></i></span>  </td></tr>
+</table>
+</div>
+
+## Languages
 
 <div style="display:inline; float: left; width: 100%;">
 | Language | Read | Write | Speak | Understand | Native |
