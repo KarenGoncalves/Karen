@@ -33,10 +33,13 @@ output:
   margin-right: auto;
 }
 
-h1, h2, h3, h4 {
+h1{
 text-align: center
 }
 
+h3, h2 {
+text-align: left
+}
 footer {
 left: 50;
 padding-left: 200px;
@@ -119,13 +122,13 @@ Ahmed, M.B., **Santos, K.C.G.d.**, Sanchez, I.B. et al. 2018. A rust fungal effe
 
 ### *2014*
 
-**dos Santos, K.C.G.**; Lopez, D.S.H. ; Perez, L.M.; Roberti, L.; Schmid, P.; Figueiredo, I.; Peres, C.K.; Rojas, C.A. 2014. Analysis of the endophytic interaction of beneficial microorganisms and the Yerba-mate. III Research Initiation Meeting - Unila - Research in the XXI century: challenges and possibilities, Foz do Iguaçu, Brazil.
+**dos Santos, K.C.G.**; Lopez, D.S.H. ; Perez, L.M.; Roberti, L.; Schmid, P.; Figueiredo, I.; Peres, C.K.; Rojas, C.A. 2014. Análise da interação endofítica de microorganismos benéficos e a erva-mate. **III Encontro de Iniciação Científica da Unila “Pesquisa no século XXI: desafios e possibilidades”**. In: [*Anais do III Encontro de Iniciação Científica da Unila “Pesquisa no século XXI: desafios e possibilidades”*](http://dspace.unila.edu.br/123456789/736), p. 135, Foz do Iguaçu, Brazil.
 
 ### *2013*
 
 **dos Santos, K.C.G.**; Lopez, D.S.H. ; Perez, L.M.; Roberti, L.; Schmid, P.; Figueiredo, I.; Peres, C.K.; Rojas, C.A.  2013. Evaluación de la respuesta de la yerba mate a la inoculación con microorganismos potencialmente benéficos. II Congreso Paraguayo de Recursos Naturales y Medio Ambiente, Asunción, Paraguay. 
 
-**dos Santos, K.C.G.**; Lopez, D.S.H. ; Perez, L.M.; Roberti, L.; Schmid, P.; Figueiredo, I.; Peres, C.K.; Rojas, C.A. 2013. Evaluation of the response of Yerba-Mate to the inoculation with potentially beneficial microorganisms. II Research Initiation Meeting - Unila, Foz do Iguaçu, Brazil.
+**dos Santos, K.C.G.**; Lopez, D.S.H. ; Perez, L.M.; Roberti, L.; Schmid, P.; Figueiredo, I.; Peres, C.K.; Rojas, C.A. 2013. Avaliação da Resposta da Erva-mate à Inoculação com Microorganismos Potencialmetne Benéficos. **II Encontro de Iniciação Científica da Unila "Resultados em debate"**. In: [*Anais do 2º Encontro de Iniciação Científica da Unila "Resultados em debate"*](http://dspace.unila.edu.br/123456789/735), p. 55-56, Foz do Iguaçu, Brazil.
 
 
 
@@ -133,7 +136,7 @@ Ahmed, M.B., **Santos, K.C.G.d.**, Sanchez, I.B. et al. 2018. A rust fungal effe
 
 ### *2020*
 
-**dos Santos, K.C.G.**; Pelletier, G.; Séguin, A.; Guillemette, F.; Hawkes, J.A.; Desgagné-Penix, I. & Germain, H. 2020. Differential alteration of plant functions by homologous fungal candidate effectors. Concours d'affiches scientifiques étudiantes 2020 du Centre SÈVE.
+**dos Santos, K.C.G.**, Pelletier, G., Séguin, A. Guillemette, F., Hawkes, J., Desgagné-Penix, I. & Germain, H. Differential alteration of plant functions by homologous fungal candidate effectors. [Concours d'affiches scientifiques étudiantes 2020 du Centre SÈVE](https://event.fourwaves.com/fr/affichesetudiantescs/abstracts/24a206e5-03ec-43ce-b763-1a920c3f9736) (online).
 
 **dos Santos, K.C.G.**, Desgagné-Penix, I. & Germain, H. 2020. Étude des plantes exprimant des protéines de virulence de la rouille du peuplier. Contest of scientific Posters - UQTR, Trois-Rivières, Canada.
 
@@ -161,16 +164,15 @@ Ahmed, M.B., **Santos, K.C.G.d.**, Sanchez, I.B. et al. 2018. A rust fungal effe
 
 ### *2014*
 
-**dos Santos, K.C.G.**; Lopez, D.S.H. ; Perez, L.M.; Roberti, L.; Schmid, P.; Figueiredo, I.; Peres, C.K.; Rojas, C.A. 2014. Growth promotion of _Ilex paraguariensis_ mediated by _Gluconacetobacter diazotrophicus_ and its relation to nitrogen metabolism. VI South American Congress of Yerba Mate and II International Symposium of Yerba Mate and Health, Montevideo, Uruguay.
+**dos Santos, K.C.G.**; Lopez, D.S.H. ; Perez, L.M.; Roberti, L.; Schmid, P.; Figueiredo, I.; Peres, C.K.; Rojas, C.A. 2014. Promoción del crecimiento de *Ilex paraguariensis* mediada por *Gluconacetobacter diazotrophicus* y su relación con el metabolismo del nitrógeno. In: [**Memorias del VI Congreso Sudamericano de Yerba Mate y II Simposio Internacional de Yerba-Mate y Salud**](http://www.congresos-rohr.com/yerbamate2014/trabajo_docs/65_T74_pdfwxD7X_pdf3LgCf.pdf), Montevideo, Uruguay.
 
-**dos Santos, K.C.G.**; Lopez, D.S.H. ; Perez, L.M.; Roberti, L.; Schmid, P.; Figueiredo, I.; Peres, C.K.; C.A.
-Rojas. 2014. Analysis of the endophytic interaction of beneficial microorganisms and the Yerba-mate. III Research Initiation Meeting - Unila - Research in the XXI century: challenges and possibilities, Foz do Iguaçu, Brazil.
+**dos Santos, K.C.G.**; Lopez, D.S.H. ; Perez, L.M.; Roberti, L.; Schmid, P.; Figueiredo, I.; Peres, C.K.; C.A. Rojas. 2014. Análise da interação endofítica de microorganismos benéficos e a erva-mate. **III Encontro de Iniciação Científica da Unila “Pesquisa no século XXI: desafios e possibilidades”**, Foz do Iguaçu, Brazil.
 
 ### *2013*
 
-**dos Santos, K.C.G.**; Lopez, D.S.H. ; Perez, L.M.; Roberti, L.; Schmid, P.; Figueiredo, I.; Peres, C.K.; Rojas, C.A. 2013. Evaluation of the response of Yerba-Mate to the inoculation with potentially beneficial microorganisms. IV National and International Congress of Agrobiotechnology, Intellectual Property and Public Policies, Posadas, Argentina.
+**dos Santos, K.C.G.**; Lopez, D.S.H. ; Perez, L.M.; Roberti, L.; Schmid, P.; Figueiredo, I.; Peres, C.K.; Rojas, C.A. 2013. Evaluación de la respuesta de la yerba mate a la inoculación con microorganismos potencialmente benéficos. **IV Congreso de Agrobiotecnología, Propiedad Intelectual y Políticas Públicas**, Posadas, Argentina.
 
-**dos Santos, K.C.G.**; Lopez, D.S.H. ; Perez, L.M.; Roberti, L.; Schmid, P.; Figueiredo, I.; Peres, C.K.; Rojas, C.A. 2013. Evaluation of the response of Yerba-Mate to the inoculation with potentially beneficial microorganisms. II Research Initiation Meeting - Unila, Foz do Iguaçu, Brazil.
+**dos Santos, K.C.G.**; Lopez, D.S.H. ; Perez, L.M.; Roberti, L.; Schmid, P.; Figueiredo, I.; Peres, C.K.; Rojas, C.A. 2013. Avaliação da Resposta da Erva-mate à Inoculação com Microorganismos Potencialmetne Benéficos. **II Encontro de Iniciação Científica da Unila "Resultados em debate"**, Foz do Iguaçu, Brazil.
 
 
 

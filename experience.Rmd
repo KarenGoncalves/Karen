@@ -33,8 +33,12 @@ output:
   margin-right: auto;
 }
 
-h1, h2, h3, h4 {
+h1, h2{
 text-align: center
+}
+
+h3 {
+text-align: left
 }
 
 footer {
@@ -80,7 +84,9 @@ text-align: center;
 
 <div class="col-md-8">
 
-## PhD on Cellular and Molecular Biology
+## Academic work
+
+### *PhD on Cellular and Molecular Biology*
 
 <div class="row">
 <div class="col-md-6">
@@ -108,7 +114,7 @@ Expected graduation: May 2021
   - Supervised students, teaching transcriptome assembly and annotation
   - Taught students and professors on the basics of the R language
   
-## Graduate Trainee
+### *Graduate Trainee*
 
 <div class="row">
 <div class="col-md-6">
@@ -123,7 +129,7 @@ August 2018 - October 2018
   - Assembled genomes of different isolates of *Bipolaris sorokiniana* (wheat and barley pathogen) with Canu
   - Prepared graphical visualization of genome structure
 
-## Undergraduate intern
+### *Undergraduate intern*
 
 <div class="row">
 <div class="col-md-6">
@@ -138,7 +144,7 @@ March 2016 - July 2016
   -	Studied behavior ecology of wild cats and capuchin monkeys and applied techniques of environment enrichment. 
   -	Managed the nutrition of the animals in captivity
 
-## Undergraduate intern
+### *Undergraduate intern*
 
 <div class="row">
 <div class="col-md-6">
@@ -152,7 +158,7 @@ June 2015 - September 2015
   -	Performed Western blot and coimmunoprecipitation
   -	Performed Chromatin Immunoprecipition with *Arabidopsis thaliana* plants
   
-## Undergraduate researcher
+### *Undergraduate researcher*
 
 <div class="row">
 <div class="col-md-8">
@@ -170,7 +176,7 @@ July 2012 - December 2015
 
 ## Leadership
 
-### Secretary
+### *Secretary*
 
 <div class="row">
 <div class="col-md-8">
@@ -184,7 +190,7 @@ December 2018 - Present
   - Prepared, translated and managed official documents of the committee.
   - Trained new secretaries
 
-### Web developer
+### *Web developer*
 
 <div class="row">
 <div class="col-md-8">
@@ -197,7 +203,7 @@ January 2020 - Present
 
   - Designed  and managed committee website
 
-### Mentor
+### *Mentor*
 
 <div class="row">
 <div class="col-md-6">
@@ -208,10 +214,11 @@ May - September (2017 and 2018)
 </div><br>
 </div>
   - Helped Mitacs Globalink interns arrive to the city, register to the university and open bank accounts.
-  - Helped Mitacs Globalink interns adapting to the new environment and organized social events for them.
-  - Write reports to Mitacs
+  - Helped Mitacs Globalink interns adapt to the new environment 
+  - Organized social events for the interns
+  - Wrote reports to Mitacs
 
-### Communication committee
+### *Communication committee*
 
 <div class="row">
 <div class="col-md-8">
@@ -221,7 +228,7 @@ May - September (2017 and 2018)
 March 2014 - July 2014
 </div><br>
 </div>
-  - Divulged activities, meetings, and documents of the Students’ Center to all the members.
+  - Announced activities and meetings and published documents of the Students’ Center to all the members.
 
 
 
