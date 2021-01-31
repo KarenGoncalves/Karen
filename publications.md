@@ -101,7 +101,7 @@ Lorrain, C., **Gonçalves dos Santos, K.C.**, Germain, H., Hecker, A. and Duples
 
 **dos Santos, K.C.G.**, McDonald, M. 2018. High molecular weight DNA extraction for long read sequencing v1. Protocols.io, DOI: [10.17504/protocols.io.uppevmn](https://doi.org/10.17504/protocols.io.uppevmn)
 
-Ahmed, M.B., **Santos, K.C.G.d.**, Sanchez, I.B. et al. 2018. A rust fungal effector binds plant DNA and modulates transcription. Sci Rep 8, 14718, DOI: [10.1038/s41598-018-32825-0](https://doi.org/10.1038/s41598-018-32825-0)
+Ahmed, M.B., **Santos, K.C.G.d.**, Sanchez, I.B., Petre, B., Lorrain, C., Plourde, M.B., Duplessis, S., Desgagné-Penix, I, Germain, H. 2018. A rust fungal effector binds plant DNA and modulates transcription. Sci Rep 8, 14718, DOI: [10.1038/s41598-018-32825-0](https://doi.org/10.1038/s41598-018-32825-0)
 
 ### *2013*
 
@@ -172,7 +172,7 @@ Ahmed, M.B., **Santos, K.C.G.d.**, Sanchez, I.B. et al. 2018. A rust fungal effe
 
 **dos Santos, K.C.G.**; Lopez, D.S.H. ; Perez, L.M.; Roberti, L.; Schmid, P.; Figueiredo, I.; Peres, C.K.; Rojas, C.A. 2013. Evaluación de la respuesta de la yerba mate a la inoculación con microorganismos potencialmente benéficos. **IV Congreso de Agrobiotecnología, Propiedad Intelectual y Políticas Públicas**, Posadas, Argentina.
 
-**dos Santos, K.C.G.**; Lopez, D.S.H. ; Perez, L.M.; Roberti, L.; Schmid, P.; Figueiredo, I.; Peres, C.K.; Rojas, C.A. 2013. Avaliação da Resposta da Erva-mate à Inoculação com Microorganismos Potencialmetne Benéficos. **II Encontro de Iniciação Científica da Unila "Resultados em debate"**, Foz do Iguaçu, Brazil.
+**dos Santos, K.C.G.**; Lopez, D.S.H. ; Perez, L.M.; Roberti, L.; Schmid, P.; Figueiredo, I.; Peres, C.K.; Rojas, C.A. 2013. Avaliação da Resposta da Erva-mate à Inoculação com Microorganismos Potencialmente Benéficos. **II Encontro de Iniciação Científica da Unila "Resultados em debate"**, Foz do Iguaçu, Brazil.
 
 
 

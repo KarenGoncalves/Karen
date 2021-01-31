@@ -79,7 +79,7 @@ I am currently doing my PhD in Quebec with [Hugo Germain](http://www.germainhugo
 
 In 2018, I did an internship at [Peter Solomon's lab](https://biology.anu.edu.au/people/academics/peter-solomon) with [Megan McDonald](https://biology.anu.edu.au/people/academics/megan-mcdonald), where I used MinIon to sequence the genome of several isolates of the fungus _Bipolaris sorokiniana_, basecalled the reads and assembled them and finally aligned the new genomes to a reference to study structural changes in the chromosomes.
 
-Finally, I am secretary of the Centre SEVE's International Partnership Committee (CPICS, 2018-present). In this role, that I share with two other people, I am responsible for the organization of documents of the committee, for the transcription of meetings and translation of documents. I also designed the [CPICS website](https://cpics.netlify.app).
+Finally, I was secretary (CPICS, 2018-2020) and now I am the President of the Centre SEVE's International Partnership Committee. As secretary, I was responsible for the organization of documents of the committee, for the transcription of meetings and translation of documents. As President, I represent the committee, moderate decisions and I am in direct contact with the Centre SEVE's direction. I also designed the [CPICS website](https://cpics.netlify.app).
 </div>
 
 </div>
