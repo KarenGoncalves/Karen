@@ -85,9 +85,12 @@ text-align: center;
 
 ## **Papers** {#papers}
 
-### *2020*
+### *2021*
 
-**dos Santos, K.C.G.**, Pelletier, G., Séguin, A. Guillemette, F., Hawkes, J., Desgagné-Penix, I. & Germain, H. Differential alteration of plant functions by homologous fungal candidate effectors. bioRxiv (2020) DOI: [10.1101/2020.10.30/363010](https://doi.org/10.1101/2020.10.30.363010)
+**dos Santos, K.C.G.**, Pelletier, G., Séguin, A. Guillemette, F., Hawkes, J., Desgagné-Penix, I. & Germain, H. Unrelated fungal rust candidate effectors act on overlapping plant functions. Microorganisms (2021) DOI: ACCEPTED.
+
+
+### *2020*
 
 **dos Santos, K.C.G.**, Desgagné-Penix, I. & Germain, H. Custom selected reference genes outperform pre-defined reference genes in transcriptomic analysis. BMC Genomics 21, 35 (2020) DOI: [10.1186/s12864-019-6426-2](https://doi.org/10.1186/s12864-019-6426-2)
 
