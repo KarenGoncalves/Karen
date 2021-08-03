@@ -97,6 +97,10 @@ May 2021 - Present
 </div><br>
 </div>
 
+  - Analyze of genetic structure and diversity of Shea using SNP data.
+  - Preparation of protocol for sampling of plants in mining site.
+  
+
 ### *PhD on Cellular and Molecular Biology*
 
 <div class="row">
