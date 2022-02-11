@@ -99,7 +99,7 @@ text-align: center;
   - Willing to accept feedback
   - Willingness to learn
   
-## *Technical*
+## *Informatics*
 
 <table  style="width: 100%;">
 <tr>
@@ -123,6 +123,7 @@ text-align: center;
 <tr>
 <td>- Latex </td><td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td> <td class="righty"><i  class="fas fa-circle"></i><i class="fas fa-circle"></i><i class="far fa-circle"></i><i class="far fa-circle"></i><i class="far fa-circle"></i></span>  </td></tr>
 </table>
+
 
 ## *Languages*
 

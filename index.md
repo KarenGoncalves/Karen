@@ -81,7 +81,7 @@ In 2018, I did an internship at [Peter Solomon's lab](https://biology.anu.edu.au
 
 Currently, I am a Postdoctoral fellow at Laval University in [GENOSCAN](https://sentinellenord.ulaval.ca/en/research/ecogenomics-mining-areas-sustainable-canadian-north-genoscan) project, where I use plant omics for restoration of boreal mining sites.
 
-Finally, I was secretary (CPICS, 2018-2020) and now I am the President of the Centre SEVE's International Partnership Committee. As secretary, I was responsible for the organization of documents of the committee, for the transcription of meetings and translation of documents. As President, I represent the committee, moderate decisions and I am in direct contact with the Centre SEVE's direction. I also designed the [CPICS website](https://cpics.netlify.app).
+Finally, I am secretary (2018-2020, 2022) and was the President (2021) of the Centre SEVE's International Partnership Committee (CPICS). As secretary, I am responsible for the organization of documents of the committee, for the transcription of meetings and translation of documents. As President, I represented the committee, moderated decisions and I was in direct contact with the Centre SEVE's direction. I also volunteer to the committee as web developer (check here the [CPICS website](https://cpics.netlify.app)).
 </div>
 
 </div>
