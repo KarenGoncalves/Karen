@@ -5,76 +5,14 @@
     <meta charset="utf-8" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge" />
     
-    <link href="figures.css" rel="stylesheet" />
+    <link href="css/figures.css" rel="stylesheet" />
     <link href="css/mystyle.css" rel="stylesheet" />
     
     <script src="https://kit.fontawesome.com/0af1a424a5.js" crossorigin="anonymous"></script>
-    <script src="site_libs/header-attrs-2.11/header-attrs.js"></script>
-    <script src="site_libs/jquery-3.6.0/jquery-3.6.0.min.js"></script>
     <meta name="viewport" content="width=device-width, initial-scale=1" />
-    <script src="site_libs/bootstrap-3.3.5/js/bootstrap.min.js"></script>
-    <script src="site_libs/bootstrap-3.3.5/shim/html5shiv.min.js"></script>
-    <script src="site_libs/bootstrap-3.3.5/shim/respond.min.js"></script>
-    <script src="site_libs/navigation-1.1/tabsets.js"></script>
-    <link href="site_libs/highlightjs-9.12.0/default.css" rel="stylesheet" />
-    <script src="site_libs/highlightjs-9.12.0/highlight.js"></script>
-    <script type="text/javascript">
-      // manage active state of menu based on current page
-      $(document).ready(function () {
-        // active menu anchor
-        href = window.location.pathname
-        href = href.substr(href.lastIndexOf('/') + 1)
-        if (href === "")
-          href = "index.html";
-        var menuAnchor = $('a[href="' + href + '"]');
-      
-        // mark it active
-        menuAnchor.tab('show');
-      
-        // if it's got a parent navbar menu mark it active as well
-        menuAnchor.closest('li.dropdown').addClass('active');
-      
-        // offset scroll position for anchor links (for fixed navbar)
-        for (var i = 1; i <= 6; i++) {
-          css += ".section h" + i + "{ " + pt + mt + "}\n";
-        }
-        style.innerHTML = "body {" + pt + "padding-bottom: 40px; }\n" + css;
-        document.head.appendChild(style);
-      });
-    </script>
-    
-    <script type="text/javascript">
-      function openTab(evt, tabName) {
-        // Declare all variables
-        var i, sections, menu_item;
-      
-        // Get all elements with class="tabcontent" and hide them
-        sections = document.getElementsByClassName("sections");
-        for (i = 0; i < sections.length; i++) {
-          sections[i].style.display = "none";
-        }
-      
-        // Get all elements with class="tablinks" and remove the class "active"
-        menu_item = document.getElementsByClassName("menu_item");
-        for (i = 0; i < menu_item.length; i++) {
-          menu_item[i].className = menu_item[i].className.replace(" active", "");
-        }
-      
-        // Show the current tab, and add an "active" class to the button that opened the tab
-        if (tabName == "skills") {
-          document.getElementById(tabName).style.display = "flex";
-          evt.currentTarget.className += " active";
-            
-        } else {
-          document.getElementById(tabName).style.display = "block";
-          evt.currentTarget.className += " active";
-        }       
-        evt.currentTarget.className += " active";
-      }
-      
-      // Get the element with id="defaultOpen" and click on it
-      document.getElementById("defaultOpen").click();    
-    </script>
+    <script src="./myJavascriptScripts/openTab.js"></script>
+    <script src="./myJavascriptScripts/activeStateMenu.js"></script>
+
   </head>
 
   <body>
@@ -127,10 +65,20 @@
           
           <article id="academic-work" class="section ">
           	<h2>Academic work</h2>
+          	<article id="postdoctoral-fellowship-in-bioinformatics" >
+          		<h3>Postdoctoral fellowship in Bioinformatics</h3>
+          		<p class="where"> <a href="https://www.uqtr.ca/"><strong>UQTR</strong></a></p>
+          		<p class="when">July 2022 - Present</p>
+          		<ul>
+          			<li>Analyse plant and algae metabolome and transcriptome in relation to specialized metabolism.</li>
+          			<li>Create tools to improve data analysis in the lab.</li>
+				</ul>
+          	<br><br></article>
+          	
           	<article id="postdoctoral-fellowship-in-plant-omics" >
           		<h3>Postdoctoral fellowship in Plant omics</h3>
           		<p class="where"> <a href="https://www.ulaval.ca/"><strong>Laval University</strong></a></p>
-          		<p class="when">May 2021 - Present</p>
+          		<p class="when">May 2021 - June 2022</p>
           		<ul>
           			<li>Analyze of genetic structure and articleersity of Shea using SNP data.</li>
           			<li>Preparation of protocol for sampling of plants in mining site.</li>

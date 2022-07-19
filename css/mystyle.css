@@ -244,6 +244,9 @@ article#home { display: block}
   text-align: justify;
 }
 
+.active {
+  top: 0;
+}
 @media all and (max-width: 1000px) {
   body {
     margin: auto;
