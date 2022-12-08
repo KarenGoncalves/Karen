@@ -301,6 +301,13 @@ article#home { display: block}
   color: black;
 }
 
+#education h3, #education p {
+  text-align: justify;
+}
+
+a:link, a:visited, a:hover{ text-decoration: none; }
+
+
 table {
   margin: auto;
   line-height: 1.42857143;
