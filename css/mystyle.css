@@ -37,9 +37,15 @@ i {color: #03b6fc;}
   background-color: #555; /* Add a dark-grey background on hover */
 }
 
+h1 {
+    text-align: center; 
+}
+h2, h3, h4 {
+  text-align: left; 
+}
+
 h1, h2, h3, h4 {
-  text-align: center; 
-  font-weight: bold;
+font-weight: bold;
   color: #317eac;
   margin-block-start: 0.25em;
   margin-block-end: 0;
