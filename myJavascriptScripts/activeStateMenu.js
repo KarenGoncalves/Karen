@@ -16,7 +16,7 @@ $(document).ready(function () {
   
     // offset scroll position for anchor links (for fixed navbar)
     for (var i = 1; i <= 6; i++) {
-        css += ".section h" + i + "{ " + pt + mt + "}\n";
+        css += ".section h" + i + "{ " + mt + "}\n";
     }
     style.innerHTML = "body {" + pt + "padding-bottom: 40px; }\n" + css;
     document.head.appendChild(style);
